@@ -1,1 +1,1 @@
-# password-randiomizer
+# password-randomizer
